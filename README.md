@@ -7,7 +7,6 @@
 ## Data Source 
 
 ## Data Cleaning and Preparation
-‎
 - Data set exploration:understanding the context data of each table 
 - Checked the table for missing data , replace, remove unwanted value Where necessary
 - Ensured id uniqueness across each table for Data modelling and analysis 
@@ -24,15 +23,15 @@
 ‎
 #### Chart
 
-- Top 10 Customers : Identify highest-spending customers over the time
+- Top 10 Customers: Identify highest-spending customers over the time
 
-- ‎Top 5 Selling Products by category : Evaluate which product category drive the most revenue
+- ‎Top 5 Selling Products by category: Evaluate which product category drive the most revenue
 
 - ‎Monthly Revenue Trend: Analyze revenue fluctuations using a trend line.
 ‎
-- ‎Payment Type : Analyze which payment methods are mostly used by the customers.
+- ‎Payment Type: Analyze which payment methods are mostly used by the customers.
 
-- ‎Country Revenue :  Analyze revenue generated from each country 
+- ‎Country Revenue:  Analyze revenue generated from each country 
 ‎
 #### ‎Slicers
 
@@ -46,3 +45,24 @@
 
 - ‎Filters the data for a specific quarter.
 -  Enables seasonal trend analysis.
+
+## Findings
+- The top 10 customers contribute a significant portion of revenue, but the top 2  make exceptional contribution to the revenue where as others shows  $10k - $100k differences between them.
+- The monthly revenue chart shows that February has  lowest all time revenue while other maintain their monthly sales revenue, previous years chart shows that on February product performed well in 14,15 and 16 but started dropping in 17, till date.
+- Top 5 performing products category dominates category revenue, while the remaining SKUs contribute relatively less.
+- Country revenue show India and Bangladesh are top 2 revenue generated country while China is the last
+- Payment type distribution indicates a preference for digital payments, aligning with global e-commerce trends.
+
+
+## Recommendations
+- Customer Retention: Focus on high-value customers with personalized promotions and loyalty programs.
+- ‎Review changes made before or after 2017 to know the reason for drop in sales in February
+- Product Strategy:
+‎Expand marketing for top-selling products.
+‎Review inventory for slow-moving products to optimize stock.
+- Geographical Expansion:
+‎Strengthen presence in underperforming regions with tailored marketing strategies.
+- Payment & Checkout Optimization:
+‎Promote preferred payment types to streamline the purchase process.
+‎
+
