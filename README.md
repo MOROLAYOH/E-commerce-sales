@@ -17,14 +17,14 @@
 
 #### Kpi
 
-- ‎Total Sales $105,401,436 Sum of all sales across all years
-- ‎Total Quantity Sold 6,000,185 Total units sold
-‎- Average Unit Price $18Average selling price per item
-- ‎Total Customers 9,191 Count of unique customers
+- ‎Total Sales : $105,401,436 Sum of all sales across all years
+- ‎Total Quantity Sold : 6,000,185   Total units sold
+- Average Unit Price : $18 Average   selling price per item
+- ‎Total Customers : 9,191   Count of unique customers
 ‎
 #### Chart
 
-- Top 10 Customers: Identify highest-spending customers over the time
+- Top 10 Customers : Identify highest-spending customers over the time
 
 - ‎Top 5 Selling Products by category : Evaluate which product category drive the most revenue
 
@@ -32,7 +32,7 @@
 ‎
 - ‎Payment Type : Analyze which payment methods are mostly used by the customers.
 
-- ‎Country Revenue:  Analyze revenue generated from each country 
+- ‎Country Revenue :  Analyze revenue generated from each country 
 ‎
 #### ‎Slicers
 
