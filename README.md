@@ -13,3 +13,36 @@
 - Ensured id uniqueness across each table for Data modelling and analysis 
 - Rechecked every detail to ensure data consistency 
 ‎
+## Analysis 
+
+#### Kpi
+
+- ‎Total Sales $105,401,436 Sum of all sales across all years
+- ‎Total Quantity Sold 6,000,185 Total units sold
+‎- Average Unit Price $18Average selling price per item
+- ‎Total Customers 9,191 Count of unique customers
+‎
+#### Chart
+
+- Top 10 Customers: Identify highest-spending customers over the time
+
+- ‎Top 5 Selling Products by category : Evaluate which product category drive the most revenue
+
+- ‎Monthly Revenue Trend: Analyze revenue fluctuations using a trend line.
+‎
+- ‎Payment Type : Analyze which payment methods are mostly used by the customers.
+
+- ‎Country Revenue:  Analyze revenue generated from each country 
+‎
+#### ‎Slicers
+
+‎1. Year (2014–2021):
+‎
+- ‎Filters the data for a specific year.
+- Impacts all KPIs and charts in the dashboard.
+
+‎
+‎2. Quarter (Q1–Q4):
+
+- ‎Filters the data for a specific quarter.
+-  Enables seasonal trend analysis.
