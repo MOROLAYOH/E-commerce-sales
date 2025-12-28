@@ -46,6 +46,9 @@
 - ‎Filters the data for a specific quarter.
 -  Enables seasonal trend analysis.
 
+<img width="931" height="459" alt="17669177646932298162108198441634" src="https://github.com/user-attachments/assets/06e0dd17-8f72-4097-8455-3452c6ea7456" />
+
+
 ## Findings
 - The top 10 customers contribute a significant portion of revenue, but the top 2  make exceptional contribution to the revenue where as others shows  $10k - $100k differences between them.
 - The monthly revenue chart shows that February has  lowest all time revenue while other maintain their monthly sales revenue, previous years chart shows that on February product performed well in 14,15 and 16 but started dropping in 17, till date.
