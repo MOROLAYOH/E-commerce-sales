@@ -1,5 +1,7 @@
 # E-commerce sales dashboard analysis 
+
 ## Table of content
+- [Project Overview] (#Project Overview)
 
 
 ## Project Overview
@@ -12,6 +14,7 @@
 - store table
 - transaction table 
 - item table
+  
 ## Tools Used 
 - Microsoft Excel 
 
