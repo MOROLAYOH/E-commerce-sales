@@ -1,4 +1,6 @@
 # E-commerce sales dashboard analysis 
+## Table of content
+
 
 ## Project Overview
 
@@ -9,7 +11,9 @@
 - fact table 
 - store table
 - transaction table 
-- item table 
+- item table
+## Tools Used 
+- Microsoft Excel 
 
 ## Data Cleaning and Preparation
 - Data set exploration:understanding the context data of each table 
@@ -51,7 +55,8 @@
 - ‎Filters the data for a specific quarter.
 -  Enables seasonal trend analysis.
 
-<img width="931" height="459" alt="17669177646932298162108198441634" src="https://github.com/user-attachments/assets/06e0dd17-8f72-4097-8455-3452c6ea7456" />
+
+<img width="931" height="462" alt="17671330415825744869032812161519" src="https://github.com/user-attachments/assets/613a5c59-841c-45b2-912f-713cb0a824ab" />
 
 
 ## Findings
