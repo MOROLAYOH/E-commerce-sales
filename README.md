@@ -7,8 +7,8 @@
 - [Data Cleansing](#Data-Cleansing)
 - [Analysis](#Analysis)
 - [Findings](#Findings)
-- [Recommendations](#Recomendations)
-- [Conclusion](#Conckusion)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
 
 
 
