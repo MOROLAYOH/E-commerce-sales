@@ -5,6 +5,11 @@
 ‎The primary goal of this project is to analyze historical e-commerce sales data (2014–2021) to provide insights on customer behavior, product performance, revenue trends, and payment preferences. The insights will guide business strategy, marketing campaigns, inventory planning, and revenue optimization.
 
 ## Data Source 
+- customer table 
+- fact table 
+- store table
+- transaction table 
+- item table 
 
 ## Data Cleaning and Preparation
 - Data set exploration:understanding the context data of each table 
